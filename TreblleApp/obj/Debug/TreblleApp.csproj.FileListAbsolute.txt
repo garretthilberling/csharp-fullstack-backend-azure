@@ -114,3 +114,6 @@ C:\Users\ghilb\Desktop\projects\TreblleApp\TreblleApp\obj\Debug\TreblleApp.cspro
 C:\Users\ghilb\Desktop\projects\TreblleApp\TreblleApp\obj\Debug\TreblleApp.csproj.CopyComplete
 C:\Users\ghilb\Desktop\projects\TreblleApp\TreblleApp\obj\Debug\TreblleApp.dll
 C:\Users\ghilb\Desktop\projects\TreblleApp\TreblleApp\obj\Debug\TreblleApp.pdb
+C:\Users\ghilb\Desktop\projects\TreblleApp\TreblleApp\obj\Debug\TreblleApp.Migrations.InitialCreate.resources
+C:\Users\ghilb\Desktop\projects\TreblleApp\TreblleApp\obj\Debug\TreblleApp.csproj.GenerateResource.cache
+C:\Users\ghilb\Desktop\projects\TreblleApp\TreblleApp\obj\Debug\TreblleApp.Migrations.UserProfile.resources
