@@ -3,16 +3,19 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.Web.Http;
+using Treblle.Net;
 using TreblleApp.Models;
 
 namespace TreblleApp.Controllers
 {
+    [Treblle]
     [Authorize]
     [Route("API/UserProfile")]
     public class UserProfileController : ApiController
     {
 
         // GET: api/UserProfile/userName
+        // get profile image
         public string Get(string userName)
         {
             using(var context = new UserProfileDBContext())

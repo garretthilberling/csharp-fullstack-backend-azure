@@ -13,12 +13,14 @@ using Microsoft.AspNet.Identity.Owin;
 using Microsoft.Owin.Security;
 using Microsoft.Owin.Security.Cookies;
 using Microsoft.Owin.Security.OAuth;
+using Treblle.Net;
 using TreblleApp.Models;
 using TreblleApp.Providers;
 using TreblleApp.Results;
 
 namespace TreblleApp.Controllers
 {
+    [Treblle]
     [Authorize]
     [RoutePrefix("api/Account")]
     public class AccountController : ApiController

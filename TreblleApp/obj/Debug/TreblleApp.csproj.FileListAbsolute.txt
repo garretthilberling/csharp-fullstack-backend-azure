@@ -117,3 +117,12 @@ C:\Users\ghilb\Desktop\projects\TreblleApp\TreblleApp\obj\Debug\TreblleApp.pdb
 C:\Users\ghilb\Desktop\projects\TreblleApp\TreblleApp\obj\Debug\TreblleApp.Migrations.InitialCreate.resources
 C:\Users\ghilb\Desktop\projects\TreblleApp\TreblleApp\obj\Debug\TreblleApp.csproj.GenerateResource.cache
 C:\Users\ghilb\Desktop\projects\TreblleApp\TreblleApp\obj\Debug\TreblleApp.Migrations.UserProfile.resources
+C:\Users\ghilb\Desktop\projects\TreblleApp\TreblleApp\bin\System.Configuration.ConfigurationManager.dll
+C:\Users\ghilb\Desktop\projects\TreblleApp\TreblleApp\bin\System.Security.AccessControl.dll
+C:\Users\ghilb\Desktop\projects\TreblleApp\TreblleApp\bin\System.Security.Permissions.dll
+C:\Users\ghilb\Desktop\projects\TreblleApp\TreblleApp\bin\System.Security.Principal.Windows.dll
+C:\Users\ghilb\Desktop\projects\TreblleApp\TreblleApp\bin\Treblle.Net.dll
+C:\Users\ghilb\Desktop\projects\TreblleApp\TreblleApp\bin\System.Configuration.ConfigurationManager.xml
+C:\Users\ghilb\Desktop\projects\TreblleApp\TreblleApp\bin\System.Security.AccessControl.xml
+C:\Users\ghilb\Desktop\projects\TreblleApp\TreblleApp\bin\System.Security.Permissions.xml
+C:\Users\ghilb\Desktop\projects\TreblleApp\TreblleApp\bin\System.Security.Principal.Windows.xml
