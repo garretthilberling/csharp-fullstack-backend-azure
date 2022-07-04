@@ -45,9 +45,9 @@ namespace TreblleApp.Models
         public string Password { get; set; }
 
         [DataType(DataType.Password)]
-        [Display(Name = "Confirm password")]
+        [Display(Name = "password_confirmation")]
         [Compare("Password", ErrorMessage = "The password and confirmation password do not match.")]
-        public string ConfirmPassword { get; set; }
+        public string password_confirmation { get; set; }
     }
 
     public class RegisterExternalBindingModel
