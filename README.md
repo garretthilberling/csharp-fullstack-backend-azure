@@ -18,7 +18,8 @@ Here is a demonstration of how to use this app:
 </div>
 
 ## Installation
-To use this API make your calls using the following deployed Azure URL: treblleapp.azurewebsites.net/ (will soon be populated with frontend code)
+To use this API make your calls using the following deployed Azure URL: https://treblleapp.azurewebsites.net/
+(will soon be populated with frontend code)
 
 ## Questions
 If you have any questions about this project, please contact me via my GitHub: https://github.com/garretthilberling
